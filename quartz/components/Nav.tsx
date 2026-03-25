@@ -5,25 +5,23 @@ interface NavOptions {
   html: string
 }
 
-export const Nav: QuartzComponentConstructor<NavOptions> = ({ html }: NavOptions) => {
-  return () => <div dangerouslySetInnerHTML={{ __html: html }} />
+const Nav: QuartzComponentConstructor<NavOptions> = (opts?: NavOptions) => {
+  const { html = "" } = opts || {}
+  const NavComponent = () => (
+    <div
+      style={{
+        display: "flex",
+        gap: "8rem",           // ← 直接用 inline style
+        margin: "0.8rem 0 2rem 0",
+        alignItems: "center",
+        fontWeight: 500,
+        fontSize: "1.1em",
+      }}
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
+  )
+  return NavComponent
 }
 
-Nav.css = `
-  .nav-container {
-    display: flex;
-    gap: 8rem;                /* ← 增大间距：原来是 2rem，现在 8rem 或更大 */
-    margin: 1.2rem 0 2rem 0;  /* ← 控制上下位置：上边距 1.2rem（更靠上），下边距 2rem */
-    align-items: center;
-    font-weight: 500;
-    font-size: 1.1em;         /* 可选：稍微放大字体 */
-  }
-  .nav-container a {
-    text-decoration: none;
-    color: inherit;
-    transition: opacity 0.2s;
-  }
-  .nav-container a:hover {
-    opacity: 0.8;             /* 可选：hover 时变暗 */
-  }
-`
+// 不依赖 .css 字符串，避免注入失败
+export default Nav
