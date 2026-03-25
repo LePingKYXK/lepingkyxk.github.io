@@ -1,5 +1,5 @@
 ---
-title: "我的第一篇博客"
+title: "测试"
 tags: [blog]
 date: 2026-03-25
 ---
@@ -9,4 +9,4 @@ date: 2026-03-25
 内容内容内容...
 $ \hat{H} \psi = E \psi$
 
-$ \sum_{i=1}^{N} \dfrac{\partial}{\partial^{2}} \psi $
+$ \displaystyle \sum_{i=1}^{N} \dfrac{\partial^{2}}{\partial x^{2}} \psi $
