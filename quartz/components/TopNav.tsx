@@ -21,11 +21,9 @@ TopNav.css = `
     border-bottom: 1px solid var(--light-gray);
     z-index: 100;
     margin-bottom: 2rem;
-  }
-  .top-nav {
     display: flex;
     justify-content: center;
-    gap: 4rem;
+    gap: 8rem; /* ← 关键！已从 4rem 改为 8rem */
     font-weight: 500;
     max-width: 1440px;
     margin: 0 auto;
@@ -34,6 +32,10 @@ TopNav.css = `
   .top-nav a {
     text-decoration: none;
     color: var(--gray);
+    transition: color 0.2s;
+  }
+  .top-nav a:hover {
+    color: var(--dark);
   }
   body.darkmode .top-nav {
     background: var(--dark);
@@ -41,6 +43,9 @@ TopNav.css = `
   }
   body.darkmode .top-nav a {
     color: var(--light-gray);
+  }
+  body.darkmode .top-nav a:hover {
+    color: var(--light);
   }
 `
 
