@@ -12,7 +12,7 @@ export const Nav: QuartzComponentConstructor<NavOptions> = ({ html }: NavOptions
 Nav.css = `
   .nav-container {
     display: flex;
-    gap: 3rem;                /* ← 增大间距：原来是 2rem，现在 3rem 或更大 */
+    gap: 8rem;                /* ← 增大间距：原来是 2rem，现在 8rem 或更大 */
     margin: 1.2rem 0 2rem 0;  /* ← 控制上下位置：上边距 1.2rem（更靠上），下边距 2rem */
     align-items: center;
     font-weight: 500;
