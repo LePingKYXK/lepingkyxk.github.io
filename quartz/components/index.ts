@@ -51,4 +51,3 @@ export {
   Flex,
   ConditionalRender,
 }
-export { Nav } from "./Nav"

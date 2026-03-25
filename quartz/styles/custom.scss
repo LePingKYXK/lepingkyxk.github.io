@@ -1,3 +1,59 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* 顶部导航栏样式 */
+.top-nav {
+  position: sticky;
+  top: 0;
+  background: var(--light);
+  padding: 0.8rem 0; /* 控制“靠上”程度：值越小越靠上 */
+  border-bottom: 1px solid var(--light-gray);
+  margin-bottom: 2rem;
+  z-index: 100;
+}
+
+.top-nav nav {
+  display: flex;
+  justify-content: center;
+  gap: 4rem; /* ← 这里控制 Home/Blogs/Publications/Links 的间距 */
+  font-weight: 500;
+  font-size: 1.1em;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: var(--gray);
+  transition: color 0.2s;
+}
+
+.top-nav a:hover {
+  color: var(--dark);
+}
+
+/* 深色模式适配 */
+body.darkmode .top-nav {
+  background: var(--dark);
+  border-color: var(--dark-gray);
+}
+
+body.darkmode .top-nav a {
+  color: var(--light-gray);
+}
+
+body.darkmode .top-nav a:hover {
+  color: var(--light);
+}
+
+/* 手机端适配（可选） */
+@media screen and (max-width: 800px) {
+  .top-nav nav {
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 1rem;
+  }
+}

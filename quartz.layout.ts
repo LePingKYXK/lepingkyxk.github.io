@@ -4,16 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Nav({
-      html: `
-        <a href="/">Home</a>
-        <a href="/tags/blog">Blogs</a>
-        <a href="/publications">Publications</a>
-        <a href="/links">Links</a>
-      `,
-    }),
-  ],
+  header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -26,9 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+    Component.Content({ slug: "navigation" }),
+      Component.ConditionalRender({
+        component: Component.Breadcrumbs(),
+        condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -58,7 +50,11 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Content({ slug: "navigation" }),
+    Component.Breadcrumbs(), 
+	Component.ArticleTitle(), 
+	Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
