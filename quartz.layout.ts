@@ -5,15 +5,36 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-      Component.Header({
-      // 配置顶部导航链接
-      links: [
-        { text: "Home", url: "/" },
-        { text: "Blogs", url: "/tags/blogs" },     // 假设你用 tags 分类
-        { text: "Publications", url: "/publications" },
-        { text: "Links", url: "/links" },
-      ],
-    }),
+        Component.Flex({
+    components: [
+      {
+        Component: Component.Text({
+          text: '<a href="/" style="text-decoration: none;">Home</a>',
+        }),
+      },
+      {
+        Component: Component.Text({
+          text: '<a href="/tags/blog" style="text-decoration: none;">Blogs</a>',
+        }),
+      },
+      {
+        Component: Component.Text({
+          text: '<a href="/publications" style="text-decoration: none;">Publications</a>',
+        }),
+      },
+      {
+        Component: Component.Text({
+          text: '<a href="/links" style="text-decoration: none;">Links</a>',
+        }),
+      },
+    ],
+    styles: {
+      display: "flex",
+      gap: "2rem",
+      margin: "0",
+      alignItems: "center",
+    },
+  }),
   ],
   afterBody: [],
   footer: Component.Footer({
