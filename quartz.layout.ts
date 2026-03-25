@@ -4,11 +4,21 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+      Component.Header({
+      // 配置顶部导航链接
+      links: [
+        { text: "Home", url: "/" },
+        { text: "Blogs", url: "/tags/blogs" },     // 假设你用 tags 分类
+        { text: "Publications", url: "/publications" },
+        { text: "Links", url: "/links" },
+      ],
+    }),
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      GitHub: "https://github.com/LePingKYXK/lepingkyxk.github.io",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
