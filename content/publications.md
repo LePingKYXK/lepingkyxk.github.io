@@ -1,31 +1,40 @@
 # My Publications
-## 2026
+### 2026
 
-## 2025
-1 Zhang, Qianqian; Yue, Yunfan; Zeng, Zhongle; Zhang, Zihan; Zhou, Jiakang; Chen, Xiangyu; Yu, Niannian; Wang, Huan*; Wang, Xuewen*. Internal Nonthermal Melting of 4H-SiC Induced by Femtosecond Laser Pulses. ACS Appl. Electron. Mater. 2025, 7 (14), 6402-6410, DOI: 10.1021/acsaelm.5c00608
+### 2025
+1. Zhang, Qianqian; Yue, Yunfan; Zeng, Zhongle; Zhang, Zihan; Zhou, Jiakang; Chen, Xiangyu; Yu, Niannian; Wang, Huan*; Wang, Xuewen*. Internal Nonthermal Melting of 4H-SiC Induced by Femtosecond Laser Pulses. ACS Appl. Electron. Mater. 2025, 7 (14), 6402-6410, DOI: 10.1021/acsaelm.5c00608
 
-2 Chen, Junjie; Shen, Chunhui*; Wang, Huan*; Gao, Shanjun*. Î²-H-free alkyl ether chains: Enhancing alkaline stability and optimizing phase-separated structures in poly(aryl piperidine) anion exchange membrane. J. Power Sources 2025, 658, 238173, DOI: 10.1016/j.jpowsour.2025.238173
+2. Chen, Junjie; Shen, Chunhui*; **Wang, Huan***; Gao, Shanjun*. Î²-H-free alkyl ether chains: Enhancing alkaline stability and optimizing phase-separated structures in poly(aryl piperidine) anion exchange membrane. J. Power Sources 2025, 658, 238173, DOI: 10.1016/j.jpowsour.2025.238173
 
-3 Li, Xin; Zhang, Wenwei; Yu, Jia; Wu, Lu; Zhang, Anran; Zhang, Jiayang; Wang, Huan*; Liao, Xiaobin*; Zhao, Yan*. Self-Assembled Protection Layer Induced by Bifunctional Additive for Reversible Aqueous Zinc Metal Battery. Adv. Funct. Mater. 2024, 34 (32), 2316474, DOI: 10.1002/adfm.202316474
+### 2024
+3. Li, Xin; Zhang, Wenwei; Yu, Jia; Wu, Lu; Zhang, Anran; Zhang, Jiayang; **Wang, Huan***; Liao, Xiaobin*; Zhao, Yan*. Self-Assembled Protection Layer Induced by Bifunctional Additive for Reversible Aqueous Zinc Metal Battery. Adv. Funct. Mater. 2024, 34 (32), 2316474, DOI: 10.1002/adfm.202316474
 
-4 Peng, Shaoqian; Shao, Guangwei; Wang, Kangwei; Chen, Xingyu; Xu, Jingwen; Wang, Huan*; Wu, Di*; Xia, Jianlong*. Efficient Energy Transfer in a Rylene Imide-Based Heterodimer: The Role of Intramolecular Electronic Coupling. J. Phys. Chem. Lett. 2023, 14 (13), 3249-3257, DOI: 10.1021/acs.jpclett.3c00477
+### 2023
+4. Peng, Shaoqian; Shao, Guangwei; Wang, Kangwei; Chen, Xingyu; Xu, Jingwen; Wang, Huan*; Wu, Di*; Xia, Jianlong*. Efficient Energy Transfer in a Rylene Imide-Based Heterodimer: The Role of Intramolecular Electronic Coupling. J. Phys. Chem. Lett. 2023, 14 (13), 3249-3257, DOI: 10.1021/acs.jpclett.3c00477
 
-5 Xia, Lixue; Wang, Huan*; Zhao, Yan*. Novel graphitic carbon nitride g-C9N10 as a promising platform to design efficient photocatalysts for dinitrogen reduction to ammonia: the first-principles investigation. J. Mater. Chem. A 2021, 9 (36), 20615-20625, 10.1039/D1TA04614D, DOI: 10.1039/D1TA04614D
+### 2021
+5. Xia, Lixue; **Wang, Huan***; Zhao, Yan*. Novel graphitic carbon nitride g-C9N10 as a promising platform to design efficient photocatalysts for dinitrogen reduction to ammonia: the first-principles investigation. J. Mater. Chem. A 2021, 9 (36), 20615-20625, 10.1039/D1TA04614D, DOI: 10.1039/D1TA04614D
 
-6 Lu, Ruihu; Xia, Lixue; Wang, Huan*; Zhao, Yan*. First-principles investigations on the synergistic effect of N-dopant and lattice-strain for CO2 reduction to CO on graphene. Int. J. Quantum Chem. 2021, 121 (6), e26535, DOI: 10.1002/qua.26535
+6. Lu, Ruihu; Xia, Lixue; **Wang, Huan***; Zhao, Yan*. First-principles investigations on the synergistic effect of N-dopant and lattice-strain for CO2 reduction to CO on graphene. Int. J. Quantum Chem. 2021, 121 (6), e26535, DOI: 10.1002/qua.26535
 
-7 Hu, Cetao; Zhang, Sixuan; Wu, Mingliang; Chen, Xingyu; Xu, Jingwen; Shen, Hao; Wang, Huan*; Wu, Di*; Xia, Jianlong*. Perylene Diimide Hexamer Based on Combination of Direct and Indirect Linkage Manners for Non-fullerene Organic Solar Cells. Chem. Asian J. 2021, 16 (22), 3767-3773, DOI: 10.1002/asia.202101018
+7. Hu, Cetao; Zhang, Sixuan; Wu, Mingliang; Chen, Xingyu; Xu, Jingwen; Shen, Hao; **Wang, Huan***; Wu, Di*; Xia, Jianlong*. Perylene Diimide Hexamer Based on Combination of Direct and Indirect Linkage Manners for Non-fullerene Organic Solar Cells. Chem. Asian J. 2021, 16 (22), 3767-3773, DOI: 10.1002/asia.202101018
 
-8 Xia, Lixue; Liao, Xiaobin; He, Qiu; Wang, Huan*; Zhao, Yan*; Truhlar, Donald G*. Multistep Reaction Pathway for CO2 Reduction on Hydride-Capped Si Nanosheets. ChemCatChem 2020, 12 (3), 722-725, DOI: 10.1002/cctc.201901105
+### 2020
+8. Xia, Lixue; Liao, Xiaobin; He, Qiu; **Wang, Huan***; Zhao, Yan*; Truhlar, Donald G*. Multistep Reaction Pathway for CO2 Reduction on Hydride-Capped Si Nanosheets. ChemCatChem 2020, 12 (3), 722-725, DOI: 10.1002/cctc.201901105
 
-9 He, Qiu; Liao, Xiaobin; Xia, Lixue; Li, Zhaohuai; Wang, Huan*; Zhao, Yan*; Truhlar, Donald G*. Accurate Binding Energies for Lithium Polysulfides and Assessment of Density Functionals for Lithiumâ€“Sulfur Battery Research. J. Phys. Chem. C 2019, 123 (34), 20737-20747, DOI: 10.1021/acs.jpcc.9b05235
+### 2019
+9. He, Qiu; Liao, Xiaobin; Xia, Lixue; Li, Zhaohuai; Wang, Huan*; Zhao, Yan*; Truhlar, Donald G*. Accurate Binding Energies for Lithium Polysulfides and Assessment of Density Functionals for Lithiumâ€“Sulfur Battery Research. J. Phys. Chem. C 2019, 123 (34), 20737-20747, DOI: 10.1021/acs.jpcc.9b05235
 
 ## Publications during my postdoc period
-- Wang, Huan; Avnir, David*; Tuvi-Arad, Inbal*. Chiral Ramachandran Plots II: General Trends and Protein Chirality Spectra. Biochem. 2018, 57 (45), 6395-6403, DOI: 10.1021/acs.biochem.8b00974
+### 2018
+- **Wang, Huan**; Avnir, David*; Tuvi-Arad, Inbal*. Chiral Ramachandran Plots II: General Trends and Protein Chirality Spectra. Biochem. 2018, 57 (45), 6395-6403, DOI: 10.1021/acs.biochem.8b00974
 
-- Wang, Huan; Agmon, Noam*. Reinvestigation of the Infrared Spectrum of the Gas-Phase Protonated Water Tetramer. J. Phys. Chem. A 2017, 121 (16), 3056-3070, DOI: 10.1021/acs.jpca.7b01856
+### 2017
+- **Wang, Huan**; Agmon, Noam*. Reinvestigation of the Infrared Spectrum of the Gas-Phase Protonated Water Tetramer. J. Phys. Chem. A 2017, 121 (16), 3056-3070, DOI: 10.1021/acs.jpca.7b01856
 
-- Wang, Huan; Agmon, Noam*. Complete Assignment of the Infrared Spectrum of the Gas-Phase Protonated Ammonia Dimer. J. Phys. Chem. A 2016, 120 (19), 3117-3135, DOI: 10.1021/acs.jpca.5b11062
+### 2016
+- **Wang, Huan**; Agmon, Noam*. Complete Assignment of the Infrared Spectrum of the Gas-Phase Protonated Ammonia Dimer. J. Phys. Chem. A 2016, 120 (19), 3117-3135, DOI: 10.1021/acs.jpca.5b11062
 
-- Wang, Huan; Agmon, Noam*. Protonated Water Dimer on Benzene: Standing Eigen or Crouching Zundel? J. Phys. Chem. B 2015, 119 (6), 2658-2667, DOI: 10.1021/jp509004j
+### 2015
+- **Wang, Huan**; Agmon, Noam*. Protonated Water Dimer on Benzene: Standing Eigen or Crouching Zundel? J. Phys. Chem. B 2015, 119 (6), 2658-2667, DOI: 10.1021/jp509004j
 
