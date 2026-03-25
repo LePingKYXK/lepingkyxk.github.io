@@ -5,36 +5,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-        Component.Flex({
-    components: [
-      {
-        Component: Component.Text({
-          text: '<a href="/" style="text-decoration: none;">Home</a>',
-        }),
-      },
-      {
-        Component: Component.Text({
-          text: '<a href="/tags/blog" style="text-decoration: none;">Blogs</a>',
-        }),
-      },
-      {
-        Component: Component.Text({
-          text: '<a href="/publications" style="text-decoration: none;">Publications</a>',
-        }),
-      },
-      {
-        Component: Component.Text({
-          text: '<a href="/links" style="text-decoration: none;">Links</a>',
-        }),
-      },
-    ],
-    styles: {
-      display: "flex",
-      gap: "2rem",
-      margin: "0",
-      alignItems: "center",
-    },
-  }),
+    Component.Header([
+      Component.PageTitle({
+        text: `
+          <nav style="display: flex; gap: 2rem; margin: 0; align-items: center; font-weight: 500;">
+            <a href="/" style="text-decoration: none; color: inherit;">Home</a>
+            <a href="/tags/blog" style="text-decoration: none; color: inherit;">Blogs</a>
+            <a href="/publications" style="text-decoration: none; color: inherit;">Publications</a>
+            <a href="/links" style="text-decoration: none; color: inherit;">Links</a>
+          </nav>
+        `,
+      }),
+    ]),
   ],
   afterBody: [],
   footer: Component.Footer({
