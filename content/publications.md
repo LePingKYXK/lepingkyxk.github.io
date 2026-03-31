@@ -45,9 +45,12 @@
 - __Wang, Huan__; He, Youjun; Li, Yongfang; Su, Hongmei$^*$. Photophysical and Electronic Properties of Five PCBM-like C60 Derivatives: Spectral and Quantum Chemical View. _J. Phys. Chem. A_ **2012**, 116 (*1*), 255-262, DOI: [10.1021/jp208520v](https://pubs.acs.org/doi/10.1021/jp208520v)
 
 ### 2010
-__Wang, Huan__; Su, Hongmei$^*$; Qian, Hualei; Wang, Zhaohui$^*$; Wang, Xuefei; Xia, Andong$^*$. Structure-Dependent All-Optical Switching in Graphene-Nanoribbon-Like Molecules: Fully Conjugated Tri(perylene bisimides). _J. Phys. Chem. A_ **2010**, 114 (*34*), 9130-9135, DOI: [10.1021/jp1056489](https://pubs.acs.org/doi/full/10.1021/jp1056489)
+- __Wang, Huan__; Su, Hongmei$^*$; Qian, Hualei; Wang, Zhaohui$^*$; Wang, Xuefei; Xia, Andong$^*$. Structure-Dependent All-Optical Switching in Graphene-Nanoribbon-Like Molecules: Fully Conjugated Tri(perylene bisimides). _J. Phys. Chem. A_ **2010**, 114 (*34*), 9130-9135, DOI: [10.1021/jp1056489](https://pubs.acs.org/doi/full/10.1021/jp1056489)
 
-### 2008
-
+### 2009
+- Zhao, Shaolei; Wu, Weiqiang; Zhao, Hongmei; __Wang, Huan__; Yang, Chunfan; Liu, Kunhui; Su, Hongmei$^*$. Adiabatic and Nonadiabatic Reaction Pathways of the O($^3$P) with Propyne. _J. Phys. Chem. A_ **2009**, 113 (*1*), 23-34, DOI: 【10.1021/jp8075707](https://pubs.acs.org/doi/10.1021/jp8075707)
+- Xiang, Tian-Cheng; __Wang, Huan__; Liu, Kun-hui; Zhao, Hong-mei; Wu, Wei-qiang; Su, Hong-mei$^*$. Reaction of C$_2$HCl$_2$ + O$_2$: Combined TR-FTIR Spectroscopy and Electronic Structure. __Chin. J. Chem. Phys__. **2009**, 22 (*6*), 673-680, DOI: [10.1088/1674-0068/22/06/673-680](https://doi.org/10.1088/1674-0068/22/06/673-680)
+- Wu, Weiqiang; Liu, Kunhui; Yang, Chunfan; Zhao, Hongmei; __Wang, Huan__; Yu, Youqing; Su, Hongmei$^*$. Reaction Mechanisms of a Photo-Induced [1,3] Sigmatropic Rearrangement via a Nonadiabatic Pathway. _J. Phys. Chem. A_ **2009**, 113 (*50*), 13892-13900, DOI: [10.1021/jp906583u](https://pubs.acs.org/doi/10.1021/jp906583u)
+- Liu, Kun-hui; Yang, Chun-fan; __Wang, Huan__; Wu, Wei-qiang; Su, Hong-mei$^*$. Time-Resolved FTIR Study on the Reaction of CHCl$_2$with NO$_2$. _Chin. J. Chem. Phys_. **2009**, 22 (*2*), 134-138, DOI: [10.1088/1674-0068/22/02/134-138](https://doi.org/10.1088/1674-0068/22/02/134-138)
 ### 2006
-__Wang, Huan__; Li, Jicun; Song, Xinli; Li, Yuzhen; Hou, Hua; Wang, Baoshan<sup>*</sup>; Su, Hongmei<sup>*</sup>; Kong, Fanao<sup>*</sup>. Computational Study of the Reaction of Chlorinated Vinyl Radical with Molecular Oxygen (C2Cl3 + O2). _J. Phys. Chem. A_ **2006**, 110 (*34*), 10336-10344, DOI: [10.1021/jp0633345](https://pubs.acs.org/doi/10.1021/jp0633345)
+- __Wang, Huan__; Li, Jicun; Song, Xinli; Li, Yuzhen; Hou, Hua; Wang, Baoshan$^*$; Su, Hongmei$^*$; Kong, Fanao$^*$. Computational Study of the Reaction of Chlorinated Vinyl Radical with Molecular Oxygen (C$_2$Cl$_3$ + O$_2$). _J. Phys. Chem. A_ **2006**, 110 (*34*), 10336-10344, DOI: [10.1021/jp0633345](https://pubs.acs.org/doi/10.1021/jp0633345)
