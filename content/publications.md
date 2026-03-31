@@ -1,6 +1,7 @@
 # My Publications
 ### 2026
-
+1. Yang, Shangkun; Chen, Xiangyu$^*$; Yue, Yunfan; Zeng, Zhongle; __Wang, Huan__; Yu, Niannian; Wang, Xuewen$^*$. Selective Passivation of Buried Interface in Perovskite Solar Cells via Ultrafast Photoexcitation. _Solar RRL_ **2026**, 10 (*1*), e202500649, DOI: [10.1002/solr.202500649](https://onlinelibrary.wiley.com/doi/full/10.1002/solr.202500649)
+2. Li, Jiawei; Song, Zhengjie; Chen, Xiangyu; Yue, Yunfan; Li, Sheng; Zeng, Zhongle; Zhou, Jiakang; __Wang, Huan__; Yu, Niannian; Wang, Xuewen$^*$; Zhang, Qingjie. Efficient Conductivity Enhancement of Flexible Polyaniline Films Induced by Ultrafast Photoexcitation. _Energy Environ. Mater_. **2026**, 9 (*2*), e70148, DOI: [10.1002/eem2.70148](https://doi.org/10.1002/eem2.70148)
 ### 2025
 1. Zhang, Qianqian; Yue, Yunfan; Zeng, Zhongle; Zhang, Zihan; Zhou, Jiakang; Chen, Xiangyu; Yu, Niannian; __Wang, Huan__$^*$; Wang, Xuewen$^*$. Internal Nonthermal Melting of 4H-SiC Induced by Femtosecond Laser Pulses. _ACS Appl. Electron. Mater._ **2025**, 7 (*14*), 6402-6410, DOI: [10.1021/acsaelm.5c00608](https://pubs.acs.org/doi/full/10.1021/acsaelm.5c00608)
 
