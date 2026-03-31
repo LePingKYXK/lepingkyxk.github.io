@@ -31,6 +31,7 @@
 - __Wang, Huan__; Avnir, David$^*$; Tuvi-Arad, Inbal$^*$. Chiral Ramachandran Plots II: General Trends and Protein Chirality Spectra. _Biochem._ **2018**, 57 (_45_), 6395-6403, DOI: [10.1021/acs.biochem.8b00974](https://pubs.acs.org/doi/10.1021/acs.biochem.8b00974)
 
 ### 2017
+- Baruch-Shpigler, Yael; __Wang, Huan__; Tuvi-Arad, Inbal$^*$; Avnir, David$^*$. Chiral Ramachandran Plots I: Glycine. _Biochem_. **2017**, 56 (*42*), 5635-5643, DOI: [10.1021/acs.biochem.7b00525](https://pubs.acs.org/doi/full/10.1021/acs.biochem.7b00525)
 - __Wang, Huan__; Agmon, Noam$^*$. Reinvestigation of the Infrared Spectrum of the Gas-Phase Protonated Water Tetramer. _J. Phys. Chem. A_ **2017**, 121 (_16_), 3056-3070, DOI: [10.1021/acs.jpca.7b01856](https://pubs.acs.org/doi/10.1021/acs.jpca.7b01856)
 
 ### 2016
@@ -52,5 +53,6 @@
 - Xiang, Tian-Cheng; __Wang, Huan__; Liu, Kun-hui; Zhao, Hong-mei; Wu, Wei-qiang; Su, Hong-mei$^*$. Reaction of C$_2$HCl$_2$ + O$_2$: Combined TR-FTIR Spectroscopy and Electronic Structure. __Chin. J. Chem. Phys__. **2009**, 22 (*6*), 673-680, DOI: [10.1088/1674-0068/22/06/673-680](https://doi.org/10.1088/1674-0068/22/06/673-680)
 - Wu, Weiqiang; Liu, Kunhui; Yang, Chunfan; Zhao, Hongmei; __Wang, Huan__; Yu, Youqing; Su, Hongmei$^*$. Reaction Mechanisms of a Photo-Induced [1,3] Sigmatropic Rearrangement via a Nonadiabatic Pathway. _J. Phys. Chem. A_ **2009**, 113 (*50*), 13892-13900, DOI: [10.1021/jp906583u](https://pubs.acs.org/doi/10.1021/jp906583u)
 - Liu, Kun-hui; Yang, Chun-fan; __Wang, Huan__; Wu, Wei-qiang; Su, Hong-mei$^*$. Time-Resolved FTIR Study on the Reaction of CHCl$_2$with NO$_2$. _Chin. J. Chem. Phys_. **2009**, 22 (*2*), 134-138, DOI: [10.1088/1674-0068/22/02/134-138](https://doi.org/10.1088/1674-0068/22/02/134-138)
+
 ### 2006
 - __Wang, Huan__; Li, Jicun; Song, Xinli; Li, Yuzhen; Hou, Hua; Wang, Baoshan$^*$; Su, Hongmei$^*$; Kong, Fanao$^*$. Computational Study of the Reaction of Chlorinated Vinyl Radical with Molecular Oxygen (C$_2$Cl$_3$ + O$_2$). _J. Phys. Chem. A_ **2006**, 110 (*34*), 10336-10344, DOI: [10.1021/jp0633345](https://pubs.acs.org/doi/10.1021/jp0633345)
