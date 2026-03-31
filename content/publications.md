@@ -39,3 +39,15 @@
 ### 2015
 - __Wang, Huan__; Agmon, Noam$^*$. Protonated Water Dimer on Benzene: Standing Eigen or Crouching Zundel? _J. Phys. Chem. B_ **2015**, 119 (_6_), 2658-2667, DOI: [10.1021/jp509004j](https://pubs.acs.org/doi/10.1021/jp509004j)
 
+## Publications during my doctoral period
+### 2012
+- Yang, ChunFan; Wu, WeiQiang; Liu, KunHui; __Wang, Huan__; Su, HongMei$^*$. Photodissociation of acryloyl chloride in the gas phase. _Sci. China Chem_. **2012**, 55 (*3*), 359-367, DOI: [10.1007/s11426-011-4368-x](https://link.springer.com/article/10.1007/s11426-011-4368-x)
+- __Wang, Huan__; He, Youjun; Li, Yongfang; Su, Hongmei$^*$. Photophysical and Electronic Properties of Five PCBM-like C60 Derivatives: Spectral and Quantum Chemical View. _J. Phys. Chem. A_ **2012**, 116 (*1*), 255-262, DOI: [10.1021/jp208520v](https://pubs.acs.org/doi/10.1021/jp208520v)
+
+### 2010
+__Wang, Huan__; Su, Hongmei$^*$; Qian, Hualei; Wang, Zhaohui$^*$; Wang, Xuefei; Xia, Andong$^*$. Structure-Dependent All-Optical Switching in Graphene-Nanoribbon-Like Molecules: Fully Conjugated Tri(perylene bisimides). _J. Phys. Chem. A_ **2010**, 114 (*34*), 9130-9135, DOI: [10.1021/jp1056489](https://pubs.acs.org/doi/full/10.1021/jp1056489)
+
+### 2008
+
+### 2006
+__Wang, Huan__; Li, Jicun; Song, Xinli; Li, Yuzhen; Hou, Hua; Wang, Baoshan<sup>*</sup>; Su, Hongmei<sup>*</sup>; Kong, Fanao<sup>*</sup>. Computational Study of the Reaction of Chlorinated Vinyl Radical with Molecular Oxygen (C2Cl3 + O2). _J. Phys. Chem. A_ **2006**, 110 (*34*), 10336-10344, DOI: [10.1021/jp0633345](https://pubs.acs.org/doi/10.1021/jp0633345)
